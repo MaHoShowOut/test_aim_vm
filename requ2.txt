@@ -1,0 +1,6 @@
+# 上传工具专用依赖包
+# 专门用于 upload/upload_project.py 文件
+
+# SSH连接和文件传输
+paramiko>=3.1.0,<4.0.0
+scp>=0.14.0,<1.0.0

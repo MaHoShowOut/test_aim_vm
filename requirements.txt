@@ -1,0 +1,16 @@
+# 测试框架和工具
+pytest
+pytest-asyncio
+
+# 系统监控
+psutil
+
+# 网络请求
+requests
+
+# SSH连接
+paramiko
+scp
+
+# 环境变量
+python-dotenv
